@@ -22,6 +22,7 @@ public class EXAM05 {
 		char ch01 = '\uAE00';
 		
 		System.out.println("ch01:"+ch01);//ch01:±Û
+		System.out.println("ch01:"+ch01);//ch01:±Û
 	}
 
 }
