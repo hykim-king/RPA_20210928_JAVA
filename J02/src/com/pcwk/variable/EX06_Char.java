@@ -1,7 +1,7 @@
 /**
  * package: com.pcwk.variable
  * file name: EX06_Char.java
- * description: char ÇÑ±Û Ãâ·Â
+ * description: char ï¿½Ñ±ï¿½ ï¿½ï¿½ï¿½
  * user: HKEDU
  * create date: 2021-09-30
  * version: 0.3
@@ -19,7 +19,7 @@ public class EX06_Char {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		char ch01 ='ÇÑ';
+		char ch01 ='í•œ';
 		char ch02 ='\uAC00';
 		
 		System.out.println("ch01:"+ch01);
